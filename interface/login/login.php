@@ -76,8 +76,6 @@ if (sqlNumRows($rs)) {
     }
 }
 
-<h1>Hello world</h1>
-
 $div_app = '';
 if (count($emr_app)) {
     // Standard app must exist
